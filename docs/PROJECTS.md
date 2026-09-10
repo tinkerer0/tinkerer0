@@ -17,7 +17,7 @@
 | 프로젝트 | 목적 | 형태 |
 | --- | --- | --- |
 | [Orca Autonomous Coordinator](https://github.com/tinkerer0/orca-autonomous-coordinator) | 작업 분담과 독립 검토를 조율 | 공개된 운영 지침·스킬 |
-| [evidence-gate](https://github.com/tinkerer0/evidence-gate) | 작업 주장과 확인 근거 연결 | 스킬·Python 감사 hook |
+| [evidence-gate](https://github.com/tinkerer0/evidence-gate) | 작업 주장과 확인 근거 연결 | 명시 호출 스킬·미채택 Python hook 실험 |
 | [deep-verify](https://github.com/tinkerer0/deep-verify) | 테스트·교차 검토·다관점 리뷰 결합 | Claude Code 스킬 |
 | [repo_release](https://github.com/tinkerer0/repo_release) | 점검부터 GitHub 업로드·릴리스까지 절차 정리 | Claude Code 스킬·스캔 스크립트 |
 | [explain-simply](https://github.com/tinkerer0/explain-simply) | 작업 결과와 의미를 쉬운 말로 설명 | Claude Code 스킬 |

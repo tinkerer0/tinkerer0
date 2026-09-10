@@ -27,12 +27,12 @@
 
 ### [evidence-gate](https://github.com/tinkerer0/evidence-gate) · 개발 작업 도구
 
-작업 완료 주장과 이를 뒷받침하는 검사를 연결하기 위한 Claude Code 스킬과 감사 hook입니다.
+작업 완료 주장과 이를 뒷받침하는 검사를 연결하기 위한 Claude Code 스킬입니다. 감사 hook 실험도 참고용으로 보존했습니다.
 
-**살펴볼 부분:** 선언한 규칙과 실제 강제하는 규칙의 구분, 오래된 근거와 위조 인용 검사.  
-**기술:** Python · Claude Code hooks. **범위:** 규칙 기반 검사를 갖춘 작업 보조 도구이며 생성된 결과의 정확성을 보장하지 않습니다.
+**살펴볼 부분:** 선언과 강제의 구분, 텍스트 기반 근거 검사의 한계를 기록한 과정.  
+**기술:** Claude Code 스킬 · Python 실험. **범위:** 명시적으로 호출하는 스킬이며, 실험한 감사 hook은 채택되지 않았습니다.
 
-[설계](https://github.com/tinkerer0/evidence-gate/blob/main/docs/DESIGN_declare_enforce_split.md) · [감사 hook](https://github.com/tinkerer0/evidence-gate/blob/main/hooks/eg_audit.py) · [테스트](https://github.com/tinkerer0/evidence-gate/blob/main/tests/test_eg_audit.py)
+[설계](https://github.com/tinkerer0/evidence-gate/blob/main/docs/DESIGN_declare_enforce_split.md) · [실험과 부정 결과](https://github.com/tinkerer0/evidence-gate/commit/80ebaa8) · [테스트](https://github.com/tinkerer0/evidence-gate/blob/main/tests/test_eg_audit.py)
 
 ### [mote](https://github.com/tinkerer0/mote_game) · 브라우저 게임
 

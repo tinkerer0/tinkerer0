@@ -26,12 +26,12 @@ An app that turns a folder of local images into movable, resizable desktop widge
 
 ### [evidence-gate](https://github.com/tinkerer0/evidence-gate) · Developer workflow
 
-A Claude Code skill and audit hook for connecting completion claims to their supporting checks.
+A Claude Code skill for connecting completion claims to their supporting checks, with an audit-hook experiment preserved for reference.
 
-**Look at:** the distinction between declared and enforced rules, stale evidence, and forged citations.  
-**Built with:** Python · Claude Code hooks. **Scope:** a workflow aid with rule-based checks, not a guarantee that generated work is correct.
+**Look at:** the distinction between declared and enforced rules, and the recorded limits of text-based evidence checks.  
+**Built with:** a Claude Code skill · Python experiment. **Scope:** explicit skill invocation; the experimental audit hook was not adopted.
 
-[Design](https://github.com/tinkerer0/evidence-gate/blob/main/docs/DESIGN_declare_enforce_split.md) · [Audit hook](https://github.com/tinkerer0/evidence-gate/blob/main/hooks/eg_audit.py) · [Tests](https://github.com/tinkerer0/evidence-gate/blob/main/tests/test_eg_audit.py)
+[Design](https://github.com/tinkerer0/evidence-gate/blob/main/docs/DESIGN_declare_enforce_split.md) · [Experiment & negative result](https://github.com/tinkerer0/evidence-gate/commit/80ebaa8) · [Tests](https://github.com/tinkerer0/evidence-gate/blob/main/tests/test_eg_audit.py)
 
 ### [mote](https://github.com/tinkerer0/mote_game) · Browser game
 
