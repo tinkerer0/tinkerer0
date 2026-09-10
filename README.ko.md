@@ -9,52 +9,48 @@
 
 ### [MemoPet](https://github.com/tinkerer0/MemoPet) · macOS
 
-별도 메모 앱을 열지 않고 떠오른 생각이나 그림을 남기는 작은 애니메이션 노트입니다.
+글과 그림으로 메모하고 로컬에 저장하는 macOS 앱입니다.
 
-**살펴볼 부분:** 네이티브 창 상호작용, 글·그림을 함께 쓰는 메모, 로컬 노트 저장.  
-**기술:** Swift · AppKit. **제공 형태:** 소스를 직접 빌드해 사용하며 macOS 13 이상이 필요합니다.
+Swift · AppKit. macOS 13 이상에서 소스를 빌드해 사용합니다.
 
 [빌드·사용법](https://github.com/tinkerer0/MemoPet#build-and-run) · [저장 테스트](https://github.com/tinkerer0/MemoPet/blob/main/Tests/MemoPetCoreTests/MemoNotebookStoreTests.swift)
 
 ### [DeskWidget](https://github.com/tinkerer0/DeskWidget) · Windows
 
-로컬 이미지 폴더를 이동·크기 조절이 가능한 바탕화면 위젯으로 바꾸는 앱입니다.
+로컬 이미지를 이동·크기 조절이 가능한 Windows 바탕화면 위젯으로 표시합니다.
 
-**살펴볼 부분:** 이미지 입력 검사, 로컬 설정, 포함할 파일을 명시한 패키징.  
-**기술:** Electron · JavaScript · C# 런처. **제공 형태:** 소스와 Windows 패키징 절차이며, 현재 서명된 실행 파일은 제공하지 않습니다.
+Electron · JavaScript · C# 런처. 소스와 패키징 방법을 제공하며, 서명된 실행 파일은 제공하지 않습니다.
 
 [소스·개발 방법](https://github.com/tinkerer0/DeskWidget#개발) · [이미지 검사](https://github.com/tinkerer0/DeskWidget/blob/main/src/image-utils.js) · [배포 점검표](https://github.com/tinkerer0/DeskWidget/blob/main/docs/RELEASE_CHECKLIST.md)
 
 ### [evidence-gate](https://github.com/tinkerer0/evidence-gate) · 개발 작업 도구
 
-작업 완료 주장과 이를 뒷받침하는 검사를 연결하기 위한 Claude Code 스킬입니다. 감사 hook 실험도 참고용으로 보존했습니다.
+작업 완료 보고에 확인 근거를 남기는 Claude Code 스킬입니다.
 
-**살펴볼 부분:** 선언과 강제의 구분, 텍스트 기반 근거 검사의 한계를 기록한 과정.  
-**기술:** Claude Code 스킬 · Python 실험. **범위:** 명시적으로 호출하는 스킬이며, 실험한 감사 hook은 채택되지 않았습니다.
+직접 호출해 사용합니다. Python 감사 hook 실험과 결과도 보관하며, 해당 hook은 채택하지 않았습니다.
 
 [설계](https://github.com/tinkerer0/evidence-gate/blob/main/docs/DESIGN_declare_enforce_split.md) · [실험과 부정 결과](https://github.com/tinkerer0/evidence-gate/commit/80ebaa8) · [테스트](https://github.com/tinkerer0/evidence-gate/blob/main/tests/test_eg_audit.py)
 
 ### [mote](https://github.com/tinkerer0/mote_game) · 브라우저 게임
 
-흡수·성장·정산·스킨 수집을 중심으로 한 작은 아케이드 프로토타입입니다.
+흡수·성장·정산·스킨 수집이 있는 브라우저 아케이드 프로토타입입니다.
 
-**살펴볼 부분:** 단일 HTML로 이어지는 플레이 흐름, 코드로 생성하는 소리, 브라우저 로컬 저장.  
-**기술:** Canvas 2D · JavaScript · Web Audio. **제공 형태:** 브라우저 프로토타입.
+JavaScript · Canvas 2D · Web Audio. 진행 상황은 브라우저에 저장합니다.
 
 [플레이](https://tinkerer0.github.io/mote_game/) · [소스·조작법](https://github.com/tinkerer0/mote_game)
 
-## 분야별 탐색
+## 분야별 프로젝트
 
 - **앱:** [MemoPet](https://github.com/tinkerer0/MemoPet), [DeskWidget](https://github.com/tinkerer0/DeskWidget), [DeskPin](https://github.com/tinkerer0/desk_pin)
 - **AI를 활용한 개발:** [Orca 작업 분담 정책](https://github.com/tinkerer0/orca-autonomous-coordinator), [evidence-gate](https://github.com/tinkerer0/evidence-gate), [다른 작업 도구](docs/PROJECTS.md#개발-도구와-작업-지침)
 - **게임:** [대표 게임·테마 변형·터미널 실험 목록](docs/GAMES.md)
-- **시각화:** [AI Scientist Lab UI](https://github.com/tinkerer0/ai_scientist_lab_ui) — 실제 연구가 실행되지 않는 합성 화면 데모.
+- **시각화:** [AI Scientist Lab UI](https://github.com/tinkerer0/ai_scientist_lab_ui), 합성 데이터를 사용하는 화면 데모.
 
-각 저장소에 실행 방법과 한계가 있습니다. 이 소개는 직접 살펴볼 수 있는 작업을 안내하며, 모든 프로젝트가 상용 배포되었거나 성능 평가를 마쳤다는 뜻은 아닙니다.
+실행 방법과 진행 상태는 각 저장소에 정리했습니다.
 
 ## 기여·피드백
 
-제가 이런 분야를 접한 지 얼마 안 돼서 부족한 점이 많습니다. 고칠 점이나 알려주실 내용이 있다면 issue나 PR로 남겨주시면 너무 감사하겠습니다.
+수정 제안은 issue나 PR로 남겨주세요.
 
 ## 라이선스
 

@@ -2,13 +2,13 @@
 
 [프로필](../README.md) · [게임과 실험](GAMES.md)
 
-공개된 저장소만 모은 목록입니다. 대표작은 프로필 앞부분에, 관련 도구와 실험은 아래에 정리했습니다.
+공개된 앱, 개발 도구, 게임 목록입니다.
 
 ## 데스크톱 앱
 
 | 프로젝트 | 목적 | 기술·제공 범위 |
 | --- | --- | --- |
-| [MemoPet](https://github.com/tinkerer0/MemoPet) | 작업 흐름을 끊지 않는 글·그림 메모 | Swift/AppKit, macOS 소스 빌드 |
+| [MemoPet](https://github.com/tinkerer0/MemoPet) | 글·그림 메모와 로컬 저장 | Swift/AppKit, macOS 소스 빌드 |
 | [DeskWidget](https://github.com/tinkerer0/DeskWidget) | 내 이미지로 바탕화면 위젯 만들기 | Electron, Windows 소스·패키징 절차 |
 | [DeskPin](https://github.com/tinkerer0/desk_pin) | 움직이는 픽셀 캐릭터와 앱 런처 | Swift, macOS 프로토타입 |
 
@@ -22,7 +22,7 @@
 | [repo_release](https://github.com/tinkerer0/repo_release) | 점검부터 GitHub 업로드·릴리스까지 절차 정리 | Claude Code 스킬·스캔 스크립트 |
 | [explain-simply](https://github.com/tinkerer0/explain-simply) | 작업 결과와 의미를 쉬운 말로 설명 | Claude Code 스킬 |
 
-도구의 규칙이나 검사 수가 실제 개발 성능·정확성의 개선을 보장하지는 않습니다. 구현 범위와 사용 조건은 해당 문서를 참고합니다.
+구현 범위와 사용 방법은 각 저장소에 정리했습니다.
 
 ## 게임과 시각화
 
