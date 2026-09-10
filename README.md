@@ -43,7 +43,7 @@ JavaScript · Canvas 2D · Web Audio. Progress is saved in the browser.
 - **Apps:** [MemoPet](https://github.com/tinkerer0/MemoPet), [DeskWidget](https://github.com/tinkerer0/DeskWidget), [DeskPin](https://github.com/tinkerer0/desk_pin)
 - **AI-assisted development:** [Orca coordination policy](https://github.com/tinkerer0/orca-autonomous-coordinator), [evidence-gate](https://github.com/tinkerer0/evidence-gate), [other workflow tools](docs/PROJECTS.md#개발-도구와-작업-지침)
 - **Games:** [playable projects, theme variants, and terminal experiments](docs/GAMES.md)
-- **Visualization:** [AI Scientist Lab UI](https://github.com/tinkerer0/ai_scientist_lab_ui), an interface demo using synthetic data.
+- **Visualization:** [AI Scientist Lab UI](https://github.com/tinkerer0/ai_scientist_lab_ui), a demo with simulated results. It does not run research.
 
 Setup instructions and project status are in each repository.
 

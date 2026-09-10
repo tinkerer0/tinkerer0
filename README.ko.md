@@ -44,7 +44,7 @@ JavaScript · Canvas 2D · Web Audio. 진행 상황은 브라우저에 저장합
 - **앱:** [MemoPet](https://github.com/tinkerer0/MemoPet), [DeskWidget](https://github.com/tinkerer0/DeskWidget), [DeskPin](https://github.com/tinkerer0/desk_pin)
 - **AI를 활용한 개발:** [Orca 작업 분담 정책](https://github.com/tinkerer0/orca-autonomous-coordinator), [evidence-gate](https://github.com/tinkerer0/evidence-gate), [다른 작업 도구](docs/PROJECTS.md#개발-도구와-작업-지침)
 - **게임:** [대표 게임·테마 변형·터미널 실험 목록](docs/GAMES.md)
-- **시각화:** [AI Scientist Lab UI](https://github.com/tinkerer0/ai_scientist_lab_ui), 합성 데이터를 사용하는 화면 데모.
+- **시각화:** [AI Scientist Lab UI](https://github.com/tinkerer0/ai_scientist_lab_ui), 합성 결과를 보여주는 화면 데모입니다. 실제 연구는 실행하지 않습니다.
 
 실행 방법과 진행 상태는 각 저장소에 정리했습니다.
 
