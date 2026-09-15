@@ -11,6 +11,7 @@
 | [MemoPet](https://github.com/tinkerer0/MemoPet) | 글·그림 메모와 로컬 저장 | Swift/AppKit, macOS 소스 빌드 |
 | [DeskWidget](https://github.com/tinkerer0/DeskWidget) | 내 이미지로 바탕화면 위젯 만들기 | Electron, Windows 소스·패키징 절차 |
 | [DeskPin](https://github.com/tinkerer0/desk_pin) | 움직이는 픽셀 캐릭터와 앱 런처 | Swift, macOS 프로토타입 |
+| [AI Usage Widget](https://github.com/tinkerer0/ai_usage_widget_kit) | Codex·Claude·Grok·Cursor 구독 사용량 표시 | Swift/AppKit·SwiftUI, macOS 14+ 소스 빌드 프리뷰 |
 
 ## 개발 도구와 작업 지침
 
