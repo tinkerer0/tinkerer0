@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="132" viewBox="0 0 560 132">
+  <rect width="560" height="132" rx="10" fill="#EAE6D8"/>
+  <g fill="none" stroke="#CABF9F" opacity=".5"><path d="M0 105h560M0 79h560M0 53h560M0 27h560"/></g>
+  <text x="28" y="45" fill="#6D684F" font-family="ui-monospace, monospace" font-size="18" letter-spacing="2">01 / NOTES</text>
+  <g transform="translate(405 18) rotate(9 40 44)">
+    <rect width="75" height="94" rx="10" fill="#FFFCF0" stroke="#A59B7D" stroke-width="2"/>
+    <path d="M18 26h38m-38 14h38m-38 14h25" stroke="#A59B7D" stroke-width="3" stroke-linecap="round"/>
+    <path d="m46 74 9 7 27-31-9-7z" fill="#47674E" stroke="#47674E" stroke-linejoin="round"/>
+  </g>
+  <circle cx="32" cy="96" r="5" fill="#A69462"/>
+  <path d="M48 96h83" stroke="#B9AD8C" stroke-width="2"/>
+</svg>

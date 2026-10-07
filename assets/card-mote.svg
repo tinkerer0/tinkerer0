@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="132" viewBox="0 0 560 132">
+  <rect width="560" height="132" rx="10" fill="#152C2A"/>
+  <circle cx="445" cy="68" r="51" fill="none" stroke="#5B8F7B" opacity=".3"/>
+  <circle cx="445" cy="68" r="68" fill="none" stroke="#5B8F7B" opacity=".2"/>
+  <text x="28" y="45" fill="#AAD7BF" font-family="ui-monospace, monospace" font-size="18" letter-spacing="2">04 / PLAY</text>
+  <circle cx="445" cy="68" r="29" fill="#A5DCBC" opacity=".1"/>
+  <circle cx="445" cy="68" r="22" fill="#A5DCBC" opacity=".2"/>
+  <circle cx="445" cy="68" r="14" fill="#CBEBD0"/>
+  <circle cx="394" cy="40" r="4" fill="#DCBF80"/>
+  <circle cx="502" cy="92" r="5" fill="#A5DCBC"/>
+  <circle cx="491" cy="29" r="2.5" fill="#A5DCBC"/>
+  <circle cx="383" cy="103" r="2.5" fill="#A5DCBC"/>
+  <circle cx="32" cy="96" r="5" fill="#A5DCBC"/>
+  <path d="M48 96h83" stroke="#507765" stroke-width="2"/>
+</svg>

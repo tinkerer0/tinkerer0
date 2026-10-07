@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="132" viewBox="0 0 560 132">
+  <rect width="560" height="132" rx="10" fill="#DBE9DF"/>
+  <path d="M317 0v132m38-132v132m38-132v132m38-132v132m38-132v132m38-132v132M298 28h262M298 66h262M298 104h262" fill="none" stroke="#B5D2BF" opacity=".6"/>
+  <text x="28" y="45" fill="#3E6650" font-family="ui-monospace, monospace" font-size="18" letter-spacing="2">02 / CHECKS</text>
+  <rect x="401" y="28" width="82" height="77" rx="15" fill="#F7FAF3" stroke="#7C9F86" stroke-width="2"/>
+  <path d="m422 65 14 14 29-29" stroke="#3E6650" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="32" cy="96" r="5" fill="#557D61"/>
+  <path d="M48 96h83" stroke="#98B79F" stroke-width="2"/>
+</svg>
