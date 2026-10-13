@@ -1,14 +1,24 @@
-# Public projects / 공개 프로젝트
+# 프로젝트 목록
 
 [프로필](../README.md) · [게임과 실험](GAMES.md)
 
-공개된 앱, 개발 도구, 게임 목록입니다.
+개발 중인 시스템 소개와 공개된 앱·개발 도구·게임을 모았습니다.
+
+## 개발 중인 시스템
+
+소스와 상세 구현은 비공개입니다. 아래 페이지에는 목적·개발 범위·현재 상태만 소개합니다.
+
+| 시스템 | 주요 관심사 | 상태 |
+| --- | --- | --- |
+| [Opeld](systems/opeld.md) | 사람과 AI 코딩 도구를 위한 개발 워크스페이스 | macOS 로컬 알파 |
+| [AI Scientist Lab](systems/research.md) | 자료 검토·분석·문서 작업을 지원하는 연구 소프트웨어 | 연구 프로토타입 |
+| [Agent Orchestration](systems/orchestration.md) | 여러 AI 에이전트와 개발하기 위한 협업 도구 | 운영 중 · 지속 개선 |
 
 ## 데스크톱 앱
 
 | 프로젝트 | 목적 | 기술·제공 범위 |
 | --- | --- | --- |
-| [MemoBuddy](https://github.com/tinkerer0/MemoBuddy) | 데스크톱 펫에 글·그림 메모 보관 | Windows 앱·Mac App Store 버전 예정. 현재 공개 저장소는 소개·지원 문서이며 최신 소스는 비공개 |
+| [MemoBuddy](https://github.com/tinkerer0/MemoBuddy) | 데스크톱 펫에 글·그림 메모 보관 | Windows 앱 배포. 공개 저장소는 소개·지원 문서이며 최신 소스는 비공개 |
 | [DeskWidget](https://github.com/tinkerer0/DeskWidget) | 내 이미지로 바탕화면 위젯 만들기 | Electron, Windows 소스·패키징 절차 |
 | [DeskPin](https://github.com/tinkerer0/desk_pin) | 움직이는 픽셀 캐릭터와 앱 런처 | Swift, macOS 프로토타입 |
 | [AI Usage Widget](https://github.com/tinkerer0/ai_usage_widget_kit) | Codex·Claude·Grok·Cursor 구독 사용량 표시 | Swift/AppKit·SwiftUI, macOS 14+ 소스 빌드 프리뷰 |
