@@ -28,7 +28,6 @@
 | 프로젝트 | 목적 | 형태 |
 | --- | --- | --- |
 | [done-contract](https://github.com/tinkerer0/done-contract) | AI 코딩 에이전트의 완료 보고 전 합의된 검사를 실행 | Python CLI·Claude Code/Grok/Cursor hook |
-| [evidence-gate](https://github.com/tinkerer0/evidence-gate) | 작업 주장과 확인 근거 연결 | 스킬·검증 실험 기록 |
 | [repo_release](https://github.com/tinkerer0/repo_release) | 점검부터 GitHub 업로드·릴리스까지 절차 정리 | Claude Code 스킬·스캔 스크립트 |
 
 구현 범위와 사용 방법은 각 저장소에 정리했습니다.
@@ -42,8 +41,11 @@
 | [Orca Autonomous Coordinator](https://github.com/tinkerer0/orca-autonomous-coordinator) | 에이전트 작업 분담·독립 검토 지침 | 이전 공개판 · 현재 운영 버전과 구분 |
 | [deep-verify](https://github.com/tinkerer0/deep-verify) | 테스트·교차 검토·규칙 감사를 결합한 절차 | 보관용 · 작성자의 설치형 스킬 사용 종료 |
 | [explain-simply](https://github.com/tinkerer0/explain-simply) | 작업 결과를 쉬운 말로 설명하는 형식 | 보관용 · 필요한 원칙을 평소 지침에 반영 |
+| [evidence-gate](https://github.com/tinkerer0/evidence-gate) | 작업 주장과 확인 근거를 연결하던 스킬·검증 실험 기록 | 보관용 · 사용 종료, 기존 문서·절차 보존 |
+| [AI Scientist Lab UI](https://github.com/tinkerer0/ai_scientist_lab_ui) | 연구 흐름을 스크롤로 보여주는 이전 화면 데모 | 보관용 · 합성 데이터로 만든 화면 |
+
+[AI Scientist Lab UI 시연](https://tinkerer0.github.io/ai_scientist_lab_ui/)의 결과·시간·비용은 합성 값이며 연구 시스템의 실행 결과가 아닙니다.
 
 ## 게임과 시각화
 
 - [게임 8개 목록](GAMES.md): 브라우저 게임 3개, 테마 변형 2개, 터미널 실험 3개.
-- [AI Scientist Lab UI](https://github.com/tinkerer0/ai_scientist_lab_ui): 연구 흐름을 스크롤로 보여주는 화면 데모. [시연](https://tinkerer0.github.io/ai_scientist_lab_ui/)의 결과·시간·비용은 합성 값이며 연구 시스템의 실행 결과가 아닙니다.
